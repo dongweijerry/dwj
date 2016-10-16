@@ -1,8 +1,0 @@
-{
-  "dwj_user":{
-    "fields":{
-      "name":"varchar(50)",
-      "phone":"varchar(50)"
-    }
-  }
-}
